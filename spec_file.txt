@@ -1,0 +1,4 @@
+First Name: 10 characters
+Last Name: 15 characters
+Address: 30 characters
+Date of Birth: 10 characters
